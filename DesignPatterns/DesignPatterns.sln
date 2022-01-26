@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design-Patterns", "Design-Patterns\Design-Patterns.csproj", "{BE8CB409-AD14-448D-851F-9168BC0EC011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonFeatureProvider", "CommonFeatureProvider\CommonFeatureProvider.csproj", "{FAC461EF-0D3B-4F02-9E1F-0D3A1E331A69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8CB409-AD14-448D-851F-9168BC0EC011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8CB409-AD14-448D-851F-9168BC0EC011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8CB409-AD14-448D-851F-9168BC0EC011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8CB409-AD14-448D-851F-9168BC0EC011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC461EF-0D3B-4F02-9E1F-0D3A1E331A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC461EF-0D3B-4F02-9E1F-0D3A1E331A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC461EF-0D3B-4F02-9E1F-0D3A1E331A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC461EF-0D3B-4F02-9E1F-0D3A1E331A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11816F99-7FE0-4A07-9783-16C66CEC37F4}
+	EndGlobalSection
+EndGlobal
